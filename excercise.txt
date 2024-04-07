@@ -1,0 +1,10 @@
+1.It is a way to navigate through your computer with certain commamds it 
+helps you make folders,files,run programs and a bunch of other things.
+2.Git is something that operated locally on a person's computer.While 
+GitHub is a web-based and is just a way to enhance the Git experience and 
+make it more collobrative.
+3.-Go to a repository on Github 
+  -Find the fork button on the repository page
+  - You have to choose where you want to fork the repository to 
+  - Then you will get a copy in your Guthub account, and you can take 
+those files and do what you want with them.
